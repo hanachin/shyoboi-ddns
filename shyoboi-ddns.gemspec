@@ -8,6 +8,7 @@ Gem::Specification.new do |s|
   s.summary     = "Simple DDNS Server"
   s.authors     = ["Seiei Higa"]
   s.email       = 'hanachin@gmail.com'
+  s.homepage    = 'https://github.com/hanachin/shyoboi-ddns'
   s.files       = Dir["{bin,lib}/**/*"] + ['LICENSE', 'README.md', 'config.ru']
 
   s.required_ruby_version = '~> 2.1.2'
